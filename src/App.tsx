@@ -7,13 +7,13 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import Layout from './components/Layout';
 import Login from './pages/Login';
 import Register from './pages/Register';
-import Dashboard from './pages/Dashboard';
-import Courses from './pages/Courses';
-import CourseDetail from './pages/CourseDetail';
-import Tasks from './pages/Tasks';
-import Quiz from './pages/Quiz';
-import Grades from './pages/Grades';
-import Profile from './pages/Profile';
+import Dashboard from './pages/user/Dashboard';
+import Courses from './pages/user/Courses';
+import CourseDetail from './pages/user/CourseDetail';
+import Tasks from './pages/user/Tasks';
+import Quiz from './pages/user/Quiz';
+import Grades from './pages/user/Grades';
+import Profile from './pages/user/Profile';
 
 export default function App() {
   return (
