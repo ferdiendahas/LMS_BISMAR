@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "react-example",
   "private": true,
   "version": "0.0.0",
@@ -36,5 +37,33 @@
     "tsx": "^4.21.0",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
+=======
+  "name": "lms-pt-indo-bismar",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.263.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.0",
+    "recharts": "^2.12.7",
+    "tailwind-merge": "^2.5.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/react": "^18.3.28",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.3.1",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.1"
+>>>>>>> 97c250ab2ab7452b2d24caf8e0c72ac363927959
   }
 }

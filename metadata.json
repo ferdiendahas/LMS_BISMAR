@@ -1,5 +1,10 @@
 {
+<<<<<<< HEAD
   "name": "LMS SuperAdmin Dashboard",
   "description": "SuperAdmin module for PT Indo Bismar LMS",
+=======
+  "name": "LMS PT Indo Bismar",
+  "description": "Learning Management System untuk Peserta PKL PT Indo Bismar",
+>>>>>>> 97c250ab2ab7452b2d24caf8e0c72ac363927959
   "requestFramePermissions": []
 }
