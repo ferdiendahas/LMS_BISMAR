@@ -8,27 +8,27 @@
 ## Tools yang Digunakan
 
 1. Core Framework & Language
-   React 18 — library UI utama
-   TypeScript — bahasa pemrograman (superset JavaScript dengan static typing)
-   Vite — build tool & dev server yang cepat
+   - React 18 — library UI utama
+   - TypeScript — bahasa pemrograman (superset JavaScript dengan static typing)
+   - Vite — build tool & dev server yang cepat
 
 2. Styling
-   Tailwind CSS v4 — utility-first CSS framework
-   tailwind-merge — untuk menggabungkan class Tailwind secara conditional
-   clsx — helper untuk conditional class names
+   - Tailwind CSS v4 — utility-first CSS framework
+   - tailwind-merge — untuk menggabungkan class Tailwind secara conditional
+   - clsx — helper untuk conditional class names
 
 3. Routing
-   React Router DOM v6 — client-side routing / navigasi halaman
+   - React Router DOM v6 — client-side routing / navigasi halaman
 
 4. Data Visualization
-   Recharts — library chart/grafik berbasis React (kemungkinan dipakai untuk dashboard LMS)
+   - Recharts — library chart/grafik berbasis React (kemungkinan dipakai untuk dashboard LMS)
 
 5. Icons
-   Lucide React — library ikon SVG
+   - Lucide React — library ikon SVG
 
 6. Tooling & Dev
-   Vite Plugin React (@vitejs/plugin-react) — integrasi React dengan Vite
-   TypeScript Compiler (tsc) — untuk type checking saat build
+   - Vite Plugin React (@vitejs/plugin-react) — integrasi React dengan Vite
+   - TypeScript Compiler (tsc) — untuk type checking saat build
 
 ## Icon
 
